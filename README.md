@@ -3,7 +3,7 @@
 This repo is a template of a minimum python package builder as a quick starter.
 
 ## Installation
-1. Download the package from [here](https://)
+1. Download the package from [here](https://github.com/keemsunguk/min_package/blob/master/dist/min_package-1.0-py3-none-any.whl)
 2. install in your working environment .
 ```buildoutcfg
 pip install min_package-1.0-py3-none-any.whl
